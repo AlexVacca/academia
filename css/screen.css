@@ -185,3 +185,14 @@ footer .legal{
 footer .legal h2{
 	display: none;
 }
+
+
+.slideshow-wrapper{
+	border-bottom: 1px solid #E78931;
+	border-top: 1px solid #E78931;
+	margin-bottom: 55px;
+}
+
+.orbit-bullets{
+	display: none;
+}
